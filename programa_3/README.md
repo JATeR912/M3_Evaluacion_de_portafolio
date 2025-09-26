@@ -5,3 +5,9 @@ REQUERIMIENTOS FUNCIONALES MINIMOS ESPERADOS
             Implementar estructuras if, elif, else para la toma de decisiones.
 
             Ejemplo: Un programa que determine si un número es positivo, negativo o cero.
+
+PROPOSITO DEL CODIGO
+
+    Solicitar al usuario un número entero y determina si es positivo, negativo o cero. Luego mostrar el mensaje correspondiente.
+
+    Ejercicio de uso de condicionales (if, elif, else).
